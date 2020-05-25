@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <h1>JWPlayer</h1>
+  <div class="jwplayer_container">
     <div id="test_player"></div>
     <button class="test_btn" @click="addTodo">TEST</button>
   </div>
